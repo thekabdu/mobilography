@@ -1,104 +1,95 @@
 {
-  "mobilography": [
-    {
-      "id": 1,
-      "num": "001",
-      "name": "Frame building",
-      "img": "https://static.tildacdn.com/tild3330-3563-4265-b135-636564393733/0OztEgZjP0A.jpg",
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "namee": "Frame building",
-      "description": "7 basic rules for building a frame, without which you won’t get a single harmonious picture.",
-      "video": "https://youtu.be/gASZGSrLN1g"
-    },
-    {
-      "id": 2,
-      "num": "002",
-      "name": "Work with light",
-      "img": "https://static.tildacdn.com/tild6136-6537-4261-b761-343965326537/4AxmnnvCG7E.jpg",
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "namee": "Work with light",
-      "description": "Basic tricks for getting bright and colorful pictures at any time of the day.",
-      "video": "https://youtu.be/OMN6RBzU0pU"
-    },
-    {
-      "id": 3,
-      "num": "003",
-      "name": "A color scheme",
-      "img": "https://static.tildacdn.com/tild3162-3832-4138-b131-613234323637/Ka42nhaj2Ak.jpg",
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "namee": "A color scheme",
-      "description": "Color harmony in the frame. Let's talk about the science of color in a simple and understandable language.",
-      "video": "https://youtu.be/guClIzYsAco"
-    },
-    {
-      "id": 4,
-      "num": "004",
-      "name": "Food shot",
-      "img": "https://static.tildacdn.com/tild3339-3537-4465-b365-323165646132/9LSrdjBzCjM.jpg",
-      "type": [
-        "Fire"
-      ],
-      "namee": "Food shot",
-      "description": "We create a juicy photo that will convey the beauty and taste of the dish.",
-      "video": "https://youtu.be/qCVFdtePiIo"
-    },
-    {
-      "id": 5,
-      "num": "005",
-      "name": "Processing photos on the phone",
-      "img": "https://static.tildacdn.com/tild3162-3832-4138-b131-613234323637/Ka42nhaj2Ak.jpg",
-      "type": [
-        "Fire"
-      ],
-      "namee": "Processing photos on the phone",
-      "description": "We use the capabilities of popular mobile applications to improve the picture.",
-      "video": "https://youtu.be/UIX6ePVSNug"
-    },
-    {
-      "id": 6,
-      "num": "006",
-      "name": "Portrait and Posing",
-      "img": "https://static.tildacdn.com/tild3830-6231-4633-b933-653063623736/zxtkWjsQ1-E.jpg",
-      "type": [
-        "Fire",
-        "Flying"
-      ],
-      "namee": "Portrait and Posing",
-      "description": "Learn to place a person in the frame. We pay special attention to clothing and accessories.",
-      "video": "https://youtu.be/A3KCutIe_Ss"
-    },
-    {
-      "id": 7,
-      "num": "007",
-      "name": "Travel photography",
-      "img": "https://static.tildacdn.com/tild3663-6532-4362-a362-316638313762/FgDHRh67puo.jpg",
-      "type": [
-        "Water"
-      ],
-      "namee": "Travel photography",
-      "description": "Step-by-step instructions for creating an atmospheric image of architecture and landscape.",
-      "video": "https://youtu.be/b3i7CGfRxDo"
-    },
-    {
-      "id": 8,
-      "num": "008",
-      "name": "Selfies",
-      "img": "https://static.tildacdn.com/tild3665-6238-4564-b866-353663373732/hxaKzDSMhts.jpg",
-      "type": [
-        "Water"
-      ],
-      "namee": "Selfies",
-      "description": "Learn all about the correct self-portrait, learn to choose a background, a foreshortening and emotions.",
-      "video": "https://youtu.be/GJvBhUREBRk"
-    }
-  ]
-}
+  "mobilography": [{
+    "id": 1,
+    "num": "001",
+    "name": "Frame building",
+    "img": "https://static.tildacdn.com/tild3330-3563-4265-b135-636564393733/0OztEgZjP0A.jpg",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "namee": "Frame building",
+    "description": "7 basic rules for building a frame, without which you won’t get a single harmonious picture.",
+    "video": "https://youtu.be/gASZGSrLN1g"
+  }, {
+    "id": 2,
+    "num": "002",
+    "name": "Work with light",
+    "img": "https://static.tildacdn.com/tild6136-6537-4261-b761-343965326537/4AxmnnvCG7E.jpg",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "namee": "Work with light",
+    "description": "Basic tricks for getting bright and colorful pictures at any time of the day.",
+    "video": "https://youtu.be/OMN6RBzU0pU"
+  }, {
+    "id": 3,
+    "num": "003",
+    "name": "A color scheme",
+    "img": "https://static.tildacdn.com/tild3162-3832-4138-b131-613234323637/Ka42nhaj2Ak.jpg",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "namee": "A color scheme",
+    "description": "Color harmony in the frame. Let's talk about the science of color in a simple and understandable language.",
+    "video": "https://youtu.be/guClIzYsAco"
+  }, {
+    "id": 4,
+    "num": "004",
+    "name": "Food shot",
+    "img": "https://static.tildacdn.com/tild3339-3537-4465-b365-323165646132/9LSrdjBzCjM.jpg",
+    "type": [
+      "Fire"
+    ],
+    "namee": "Food shot",
+    "description": "We create a juicy photo that will convey the beauty and taste of the dish.",
+    "video": "https://youtu.be/qCVFdtePiIo"
+  }, {
+    "id": 5,
+    "num": "005",
+    "name": "Processing photos on the phone",
+    "img": "https://static.tildacdn.com/tild3162-3832-4138-b131-613234323637/Ka42nhaj2Ak.jpg",
+    "type": [
+      "Fire"
+    ],
+   "namee": "Processing photos on the phone",
+    "description": "We use the capabilities of popular mobile applications to improve the picture.",
+    "video": "https://youtu.be/UIX6ePVSNug"
+  }, {
+    "id": 6,
+    "num": "006",
+    "name": "Portrait and Posing",
+    "img": "https://static.tildacdn.com/tild3830-6231-4633-b933-653063623736/zxtkWjsQ1-E.jpg",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+   "namee": "Portrait and Posing",
+    "description": "Learn to place a person in the frame. We pay special attention to clothing and accessories.",
+    "video": "https://youtu.be/A3KCutIe_Ss"
+  }, {
+    "id": 7,
+    "num": "007",
+    "name": "Travel photography",
+    "img": "https://static.tildacdn.com/tild3663-6532-4362-a362-316638313762/FgDHRh67puo.jpg",
+    "type": [
+      "Water"
+    ],
+	"namee": "Travel photography",
+    "description": "Step-by-step instructions for creating an atmospheric image of architecture and landscape.",
+    "video": "https://youtu.be/b3i7CGfRxDo"
+  }, {
+    "id": 8,
+    "num": "008",
+    "name": "Selfies",
+    "img": "https://static.tildacdn.com/tild3665-6238-4564-b866-353663373732/hxaKzDSMhts.jpg",
+    "type": [
+      "Water"
+    ],
+    "namee": "Selfies",
+    "description": "Learn all about the correct self-portrait, learn to choose a background, a foreshortening and emotions.",
+    "video": "https://youtu.be/GJvBhUREBRk"
+  }]
+  }
